@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\N-project\midan\midan\bin\Release\midan.exe
+C:\Users\user\Desktop\N-project\midan\midan\bin\Release\midan.pdb
+C:\Users\user\Desktop\N-project\midan\midan\bin\Release\Database.mdf
+C:\Users\user\Desktop\N-project\midan\midan\bin\Release\Database_log.ldf
+C:\Users\user\Desktop\N-project\midan\midan\bin\Release\midan.exe.config
+C:\Users\user\Desktop\N-project\midan\midan\obj\Release\midan.Form1.resources
+C:\Users\user\Desktop\N-project\midan\midan\obj\Release\midan.Form2.resources
+C:\Users\user\Desktop\N-project\midan\midan\obj\Release\midan.Form3.resources
+C:\Users\user\Desktop\N-project\midan\midan\obj\Release\midan.Properties.Resources.resources
+C:\Users\user\Desktop\N-project\midan\midan\obj\Release\midan.csproj.GenerateResource.cache
+C:\Users\user\Desktop\N-project\midan\midan\obj\Release\midan.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\N-project\midan\midan\obj\Release\midan.exe
+C:\Users\user\Desktop\N-project\midan\midan\obj\Release\midan.pdb

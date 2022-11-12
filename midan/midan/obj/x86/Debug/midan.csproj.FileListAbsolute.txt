@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\N-project\midan\midan\bin\x86\Debug\midan.exe.config
+C:\Users\user\Desktop\N-project\midan\midan\bin\x86\Debug\midan.exe
+C:\Users\user\Desktop\N-project\midan\midan\bin\x86\Debug\midan.pdb
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.csprojAssemblyReference.cache
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.Form1.resources
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.Form2.resources
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.Form3.resources
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.Properties.Resources.resources
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.csproj.GenerateResource.cache
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.exe
+C:\Users\user\Desktop\N-project\midan\midan\obj\x86\Debug\midan.pdb
+C:\Users\user\Desktop\N-project\midan\midan\bin\x86\Debug\midnn.mdf
+C:\Users\user\Desktop\N-project\midan\midan\bin\x86\Debug\midnn_log.ldf
